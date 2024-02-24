@@ -45,5 +45,6 @@ body {
 }
 
 .card .details p {
-
-}
+    text-transform: uppercase;
+    font-weight: 300;
+  }
